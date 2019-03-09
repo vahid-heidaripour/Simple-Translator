@@ -1,0 +1,15 @@
+vars x, y, z
+x:=0,
+ifpos x
+then
+    ifpos y
+    then
+        skip, x:=y, y:=-3
+    else
+        skip
+    end,
+    z:=x
+else
+z:=z
+end
+
