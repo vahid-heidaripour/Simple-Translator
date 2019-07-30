@@ -1,2 +1,2 @@
 # Simple-Translator
-This is very simple translator for a language input A and to output language B.
+This is very simple translator for a language input A to output language B.
